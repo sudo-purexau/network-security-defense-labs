@@ -1,6 +1,6 @@
 # Lab 01 — VM Environment Setup
 
-**Course:** CYB623 — Network Security and Defense
+**Course:** Network Security and Defense
 **Goal:** Stand up a safe, reproducible security lab: install VirtualBox, deploy the pre-built SEED Ubuntu 20.04 VM, and get comfortable working at the Linux command line.
 
 This write-up documents the lab procedure, the commands run in the VM, and the results captured in the screenshots under `assets/`. The setup steps follow the course instructions and the [SEED VM manual](https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md).

@@ -1,6 +1,6 @@
 # Network Security & Defense — Lab Portfolio
 
-Hands-on lab work from **CYB623: Network Security and Defense** (Pace University). Each lab lives in its own folder under [`labs/`](./labs) with a full write-up: objectives, environment, step-by-step commands, observed results, and evidence screenshots.
+Hands-on lab work from a graduate **Network Security and Defense** course (Pace University). Each lab lives in its own folder under [`labs/`](./labs) with a full write-up: objectives, environment, step-by-step commands, observed results, and evidence screenshots.
 
 All exercises were performed in virtual machines set up for coursework, in accordance with the course's White Hat code of ethics. Only Lab 01 is included so far.
 
