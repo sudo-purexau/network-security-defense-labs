@@ -1,16 +1,14 @@
 # Network Security & Defense — Lab Portfolio
 
-Hands-on security lab work from **CYB623: Network Security and Defense** (Pace University). Each lab lives in its own folder under [`labs/`](./labs) with a full write-up: objectives, environment, step-by-step commands, observed results, and evidence screenshots.
+Hands-on lab work from **CYB623: Network Security and Defense** (Pace University). Each lab lives in its own folder under [`labs/`](./labs) with a full write-up: objectives, environment, step-by-step commands, observed results, and evidence screenshots.
 
-All exercises were performed in isolated virtual machines built for coursework, in accordance with the course's White Hat code of ethics.
+All exercises were performed in virtual machines set up for coursework, in accordance with the course's White Hat code of ethics. Only Lab 01 is included so far.
 
 ## Labs
 
 | # | Lab | Focus | Status |
 |---|-----|-------|--------|
 | 1 | [VM Environment Setup](./labs/lab-01-vm-environment-setup) | VirtualBox, SEED Ubuntu VM, Linux fundamentals | Done |
-
-> More labs will be added as the course progresses.
 
 ## Environment
 
@@ -20,8 +18,8 @@ All exercises were performed in isolated virtual machines built for coursework, 
 
 ## Skills Demonstrated
 
-- Virtualization and lab-environment hardening basics
-- Linux command-line fundamentals (`bash`, navigation, file management, permissions)
+- Virtualization basics for security lab environments
+- Linux command-line fundamentals (`bash`, navigation, file management)
 - Network interface inspection and IP addressing (`ifconfig`)
 - Documenting technical work with reproducible commands and evidence
 
@@ -38,4 +36,4 @@ network-security-defense-labs/
 
 ## Acknowledgments
 
-Labs are built on the [SEED Labs](https://seedsecuritylabs.org/) project (Wenliang Du, Syracuse University), used in coursework at Pace University. All lab work, observations, and write-ups are my own.
+Labs are built on the [SEED Labs](https://seedsecuritylabs.org/) project, used in coursework at Pace University. The lab work, observations, and write-ups are my own.
