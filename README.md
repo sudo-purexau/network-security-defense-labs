@@ -2,7 +2,7 @@
 
 Hands-on lab work from a graduate **Network Security and Defense** course (Pace University). Each lab lives in its own folder under [`labs/`](./labs) with a full write-up: objectives, environment, step-by-step commands, observed results, and evidence screenshots.
 
-All exercises were performed in virtual machines set up for coursework, in accordance with the course's White Hat code of ethics. Labs 01–02 are included so far.
+All exercises were performed in virtual machines set up for coursework, in accordance with the course's White Hat code of ethics. Labs 01–03 are included so far.
 
 ## Labs
 
@@ -10,6 +10,7 @@ All exercises were performed in virtual machines set up for coursework, in accor
 |---|-----|-------|--------|
 | 1 | [VM Environment Setup](./labs/lab-01-vm-environment-setup) | VirtualBox, SEED Ubuntu VM, Linux fundamentals | Done |
 | 2 | [Docker Network Environment](./labs/lab-02-docker-network-environment) | Docker Compose, container networking, nmap scanning | Done |
+| 3 | [Packet Sniffing and Spoofing](./labs/lab-03-packet-sniffing-and-spoofing) | Wireshark, Scapy, ICMP/UDP spoofing | Done |
 
 ## Environment
 
@@ -23,6 +24,8 @@ All exercises were performed in virtual machines set up for coursework, in accor
 - Linux command-line fundamentals (`bash`, navigation, file management)
 - Docker containers and multi-host lab networks with Docker Compose
 - Network reconnaissance with nmap (host discovery, open-port scanning)
+- Packet capture and analysis with Wireshark
+- Packet crafting, sniffing, and spoofing with Scapy (Python)
 - Network interface inspection and IP addressing (`ifconfig`)
 - Documenting technical work with reproducible commands and evidence
 
@@ -36,6 +39,9 @@ network-security-defense-labs/
     │   ├── README.md                  # Full lab write-up
     │   └── assets/                    # Evidence screenshots
     └── lab-02-docker-network-environment/
+        ├── README.md                  # Full lab write-up
+        └── assets/                    # Evidence screenshots
+    └── lab-03-packet-sniffing-and-spoofing/
         ├── README.md                  # Full lab write-up
         └── assets/                    # Evidence screenshots
 ```
